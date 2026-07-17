@@ -47,11 +47,6 @@ const tahaTabassum = {
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tahatabassum&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
-
 <br>
 
 ## 🔗 Connect With Me
