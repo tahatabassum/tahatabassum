@@ -27,23 +27,27 @@ const tahaTabassum = {
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
-![](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css)
+![](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css&theme=dark)
 
 **Frontend**
-![](https://skillicons.dev/icons?i=react,tailwind,vite)
+![](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)
 
 **Backend / Infra**
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi)
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi&theme=dark)
 
 **Cloud**
-![](https://skillicons.dev/icons?i=gcp,vercel)
+![](https://skillicons.dev/icons?i=gcp,vercel&theme=dark)
 
 **AI / Database**
-![](https://skillicons.dev/icons?i=tensorflow,sklearn,firebase,supabase)
+![](https://skillicons.dev/icons?i=tensorflow,sklearn,firebase,supabase&theme=dark)
 
 **Dev Tools**
-![](https://skillicons.dev/icons?i=git,github,vscode,jupyter)
+![](https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark)
+
+</div>
 
 ---
 
@@ -51,14 +55,12 @@ const tahaTabassum = {
 
 <div align="center">
 
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=nord&border_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahatabassum&layout=compact&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&ring_color=7dd3fc" width="49%" alt="Taha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahatabassum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" width="41.5%" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tahatabassum&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc)
+<img src="https://streak-stats.demolab.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" alt="GitHub Streak" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tahatabassum&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahatabassum&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
+<img src="https://github-profile-trophy.vercel.app/?username=tahatabassum&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="90%" alt="Trophies" />
 
 </div>
 
