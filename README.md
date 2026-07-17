@@ -15,7 +15,7 @@
 
 ```typescript
 const tahaTabassum = {
-  title: "Full-Stack Developer (MERN) & AI/ML Engineer",
+  title: "Full-Stack Developer & AI/ML",
   stack: [
     "Python", "C++", "JavaScript", "TypeScript",
     "React", "Node.js", "MongoDB", "FastAPI",
