@@ -44,17 +44,6 @@ const tahaTabassum = {
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&ring_color=7dd3fc" width="100%" alt="Taha's GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahatabassum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" width="100%" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
 </div>
@@ -71,7 +60,7 @@ const tahaTabassum = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahatabassum2/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=vercel&logoColor=black)](https://taha-portfolio-xi.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahatabassum9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tahatabassum9@gmail.com)
 
 </div>
 
