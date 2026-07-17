@@ -9,64 +9,63 @@
 
 </div>
 
----
+<br>
 
-### 👋 Who I Am
+## 👋 Who I Am
 
 ```typescript
 const tahaTabassum = {
   title: "Full-Stack Developer (MERN) & AI/ML Engineer",
-  stack: ["Python", "C++", "JavaScript", "TypeScript", "React", "Node.js", "MongoDB", "FastAPI", "TensorFlow", "scikit-learn"],
+  stack: [
+    "Python", "C++", "JavaScript", "TypeScript",
+    "React", "Node.js", "MongoDB", "FastAPI",
+    "TensorFlow", "scikit-learn",
+  ],
   approach: "Vibe coding — fast iteration, shipped products over perfect prototypes",
   status: "BS Computer Science student (AI/ML track)",
   openTo: ["Internships", "Collaborations", "AI/ML + Full-Stack projects"],
 };
 ```
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+| | |
+|---|---|
+| **Languages** | ![](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css&theme=dark) |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark) |
+| **Backend / Infra** | ![](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi&theme=dark) |
+| **Cloud** | ![](https://skillicons.dev/icons?i=gcp,vercel&theme=dark) |
+| **AI / Database** | ![](https://skillicons.dev/icons?i=tensorflow,sklearn,firebase,supabase&theme=dark) |
+| **Dev Tools** | ![](https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark) |
 
-**Languages**
-![](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css&theme=dark)
+<br>
 
-**Frontend**
-![](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)
+## 📊 GitHub Stats
 
-**Backend / Infra**
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi&theme=dark)
-
-**Cloud**
-![](https://skillicons.dev/icons?i=gcp,vercel&theme=dark)
-
-**AI / Database**
-![](https://skillicons.dev/icons?i=tensorflow,sklearn,firebase,supabase&theme=dark)
-
-**Dev Tools**
-![](https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark)
-
-</div>
-
----
-
-### 📊 GitHub Stats
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&ring_color=7dd3fc" width="100%" alt="Taha's GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahatabassum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" width="100%" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&ring_color=7dd3fc" width="49%" alt="Taha's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahatabassum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" width="41.5%" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=tahatabassum&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="90%" alt="Trophies" />
-
+<img src="https://streak-stats.demolab.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tahatabassum&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
 
-### 🔗 Connect With Me
+<br>
+
+## 🔗 Connect With Me
 
 <div align="center">
 
