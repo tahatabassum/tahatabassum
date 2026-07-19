@@ -12,10 +12,10 @@
 ## 👋 Who I Am
 
 ```typescript
-const tahaTabassum = {
+const TahaTabassum = {
   title: "Full-Stack Developer & AI/ML",
   stack: [
-    "Python", "C++", "JavaScript", "TypeScript",
+    "Python","JavaScript", "TypeScript",
     "React", "Node.js", "MongoDB", "FastAPI",
     "TensorFlow", "scikit-learn",
   ],
