@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI%2FML+products+end-to-end;MERN+Stack+%2B+AI+Integrations;Turning+ideas+into+shipped+apps;Vibe+coding+with+purpose)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tahatabassum&color=7dd3fc&style=flat-square)
-![Followers](https://img.shields.io/github/followers/tahatabassum?label=Followers&style=flat-square&color=7dd3fc)
-
 </div>
 
 <br>
