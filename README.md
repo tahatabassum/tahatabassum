@@ -41,9 +41,11 @@ open_to:
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7DD3FC&text_color=c9d1d9&ring_color=A78BFA" width="100%" alt="GitHub Stats" />
+#### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=7DD3FC&currStreakLabel=7DD3FC" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=tahatabassum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7DD3FC&text_color=c9d1d9&ring_color=A78BFA" width="100%" alt="" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahatabassum&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=7DD3FC&currStreakLabel=7DD3FC" width="100%" alt="" />
 
 </td>
 </tr>
