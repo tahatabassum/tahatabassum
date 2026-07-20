@@ -1,10 +1,8 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi+there%2C+I'm+Taha+Tabassum+%F0%9F%91%8B;Full-Stack+(MERN)+Developer;AI+%2F+ML+Engineer;Vibe+Coder+%E2%80%94+Shipping+Ideas+Fast" alt="Typing SVG" />
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
 
 </div>
 
@@ -90,6 +88,6 @@ open_to:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C3AED&height=100&section=footer" width="100%" />
 
 </div>
